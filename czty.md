@@ -2,6 +2,8 @@
 W pliku `index.html` znajdują się dane potrzebne do wykonania poniższych zadań. Zapisz kod swoich rozwiązań w powyższym pliku, poprzedzając każde rozwiązanie komentarzem zawierającym  numer zadania.
 Nie zmieniaj danych w tablicach!
 
+✔
+
 ###  Zadanie 1
 Przy pomocy metody **forEach** wyświetl wszystkie elementy tablicy `owoce` w konsoli.
 
